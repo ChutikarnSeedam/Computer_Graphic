@@ -37,7 +37,7 @@ void display() {
 
 int main(int argc, char** argv) {
 	glutInit(&argc, argv); 
-	glutCreateWindow("RGB_Cube_6404062620109");
+	glutCreateWindow("RGB_Cube_6404062610464");
 	glutInitWindowSize(320, 320);
 	glutInitWindowPosition(50, 50); 
 	glutDisplayFunc(display); 
